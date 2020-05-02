@@ -22,8 +22,7 @@ public class Product {
             this.price = value;
             return this;
         }
-        public Product build()
-        {
+        public Product build() {
             return new Product(this);
         }
     }
