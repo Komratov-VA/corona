@@ -1,0 +1,25 @@
+
+P
+ src/main/java/com/sber/Room.java,d/4/d4304e9c355255197781c4e908aecd55d6093871
+Y
+)src/main/java/com/sber/PolicemanImpl.java,0/a/0ae3e4de6bb49dda9afced9b2d6bb69e20294e93
+U
+%src/main/java/com/sber/Announcer.java,7/c/7cd6561d05ed8a06e1d2098ee2d5ca22154efe2c
+\
+,src/main/java/com/sber/ConsoleAccouncer.java,a/7/a741985b1961310aa09de48d3ffc1f2edf0c93ff
+U
+%src/main/java/com/sber/Policeman.java,d/e/de4fc3045622f513f854c5ebaa4288baa882708b
+Z
+*src/main/java/com/sber/AngryPoliceman.java,7/7/77cbc1994d322c43d3916790e541b5a5f821a604
+R
+"src/main/java/com/sber/Config.java,e/b/eb21b7ba45ae45fa5e90b85c768ec25c6f5d85d4
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ src/main/java/com/sber/Main.java,b/0/b083d1fed7975e6f94b7f2b3f6b92f6760f68b7d
+]
+-src/main/java/com/sber/CoronaDesinfector.java,a/f/affb6c7d1ea6a3420871eb6d1be15d0871cea145
+V
+&src/main/java/com/sber/JavaConfig.java,7/0/70f0a60926a14cd58dd44d9e7fcbb45b23447ade
+Y
+)src/main/java/com/sber/ObjectFactory.java,9/e/9e618c1884443d82079588fab76bebc945dcb0f1
